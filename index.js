@@ -79,7 +79,3 @@ module.exports = class CustomConsole {
         return true;
     }
 }
-
-
-
-lol.success('youh', "hello")

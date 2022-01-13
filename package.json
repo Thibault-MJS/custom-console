@@ -1,6 +1,6 @@
 {
   "name": "custom-console22",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Tooltip permettant d'avoir de meilleurs logs",
   "main": "index.js",
   "scripts": {
